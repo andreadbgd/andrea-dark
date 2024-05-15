@@ -1,0 +1,33 @@
+{
+  "name": "andrea-dark",
+  "displayName": "andrea-dark",
+  "description": "red-based dark mode theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "red-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/red-dark-color-theme.json"
+      }
+    ]
+  },
+  "publisher" : "andreadbgd",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/andreadbgd/andrea-dark"
+  },
+  "keywords": [
+    "dark theme",
+    "red theme",
+    "primarys theme",
+    "red and blue and yellow theme"
+  ]
+
+}
